@@ -34,5 +34,3 @@ for DB projects
 7-DELETE => Delete records (delete data from tables)
 
 	=> DELETE FROM table_name ;
-
-*/
